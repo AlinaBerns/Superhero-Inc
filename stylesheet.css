@@ -9,7 +9,7 @@ a{
 }
 
 article{
-    border: 1px solid darkred;
+    border: 3px solid darkred;
     padding: 5px;
     border-radius: 5% 0 ;
     background-color: rgba(255, 166, 0, 0.25);
